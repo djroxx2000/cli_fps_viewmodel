@@ -11,4 +11,4 @@ A simple CLI based FPS viewmodel with freedom to move around a map in 4 directio
 
 ### Screenshots
 
-![alt text](https://github.com/djroxx2000/cli_fps_viewmodel/blob/main/assets/demo.png 'CLI Runner Demo')
+![alt text](https://github.com/djroxx2000/cli-fps-viewmodel/blob/main/assets/demo.png 'CLI Runner Demo')
